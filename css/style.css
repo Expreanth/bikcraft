@@ -7,3 +7,6 @@
 /*utilidades*/
 @import "./utilidades/cores.css";
 @import "./utilidades/componentes.css";
+@import "./bicicletas/bicicletas-lista.css";
+@import "./home/tecnologia.css";
+@import "./home/parceiros.css";
