@@ -4,9 +4,12 @@
 @import "./global/header.css";
 /*home*/
 @import "./home/introdução.css";
+@import "./home/tecnologia.css";
+@import "./home/parceiros.css";
+@import "./home/depoimento.css";
 /*utilidades*/
 @import "./utilidades/cores.css";
 @import "./utilidades/componentes.css";
 @import "./bicicletas/bicicletas-lista.css";
-@import "./home/tecnologia.css";
-@import "./home/parceiros.css";
+/*seguros*/
+@import "./seguros/seguros.css"
