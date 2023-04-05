@@ -11,8 +11,10 @@
 /*utilidades*/
 @import "./utilidades/cores.css";
 @import "./utilidades/componentes.css";
-@import "./bicicletas/bicicletas-lista.css";
 /*seguros*/
 @import "./seguros/seguros.css";
 /*termos*/
-@import "./termos/termos.css"
+@import "./termos/termos.css";
+/*Bicicletas*/
+@import "./bicicletas/bicicletas-lista.css";
+@import "./bicicletas/bicicletas.css"
