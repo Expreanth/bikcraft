@@ -1,3 +1,9 @@
 {
-  "liveServer.settings.multiRootWorkspaceName": "hT"
+  "liveServer.settings.multiRootWorkspaceName": "hT",
+  "files.autoSaveDelay": 100,
+  "files.autoSave": "afterDelay",
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
+  "editor.formatOnType": true,
+  "editor.formatOnPaste": true
 }
