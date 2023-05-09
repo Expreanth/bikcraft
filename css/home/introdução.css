@@ -4,7 +4,7 @@
   gap: 0px 40px;
 }
 .introducao-bg {
-  background: var(--cor-12);
+  background: var(--cor-12) url('../../img/dec/bottom-left.svg') no-repeat bottom 160px left 20px;
   box-shadow: 0px -120px  inset var(--cor-0);
 }
 .introducao p,
